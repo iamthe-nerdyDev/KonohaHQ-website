@@ -91,7 +91,7 @@ const Testimonials = () => {
 
                         <div>
                           <div className="testimony-box mb-3">
-                            "{testimony.testimony}"
+                            &quot;{testimony.testimony}&quot;
                           </div>
                           <div className="info">
                             <h4>{testimony.name}</h4>
